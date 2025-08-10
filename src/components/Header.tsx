@@ -33,7 +33,6 @@ const Header = () => {
           mx: 4,
         }}
       >
-        {/* Logo */}
         <Box sx={{ width: { xs: "60%", md: "20%" } }}>
           <a href="/">
             <Box

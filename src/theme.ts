@@ -40,9 +40,6 @@ const theme = createTheme({
       smallsMobile: 350,
     },
   },
-  // typography: {
-  //   fontFamily: 'Montserrat, -apple-system, Roboto, Helvetica, sans-serif',
-  // },
   palette: {
     primary: {
       main: '#7C8772',

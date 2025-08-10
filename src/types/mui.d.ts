@@ -1,16 +1,13 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { BreakpointOverrides } from "@mui/material/styles";
 
 declare module "@mui/material/styles" {
   interface BreakpointOverrides {
-    // Breakpoints por defecto
     xs: true;
     sm: true;
     md: true;
     lg: true;
     xl: true;
 
-    // Breakpoints personalizados
     ultraWide: true;
     superWide: true;
     extraWide: true;
